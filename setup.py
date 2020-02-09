@@ -10,7 +10,7 @@ setuptools.setup(
     author="Andrew Scholly",
     author_email="ajscholly191@stevenscollege.edu",
     url="https://github.com/AndrewScholly/Python-quiz-skeleton",
-    description="This project simply runs a string six times",
+    description="This project simply runs a string 3 times",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),

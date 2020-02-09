@@ -1,5 +1,3 @@
-class Repeat(object):
-    def __init__(self):
-        a = ["1", "2", "3"]
-        for i in a:
-            print(a)
+a = input(" ")
+for b in a:
+    print(a * 3)
